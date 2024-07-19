@@ -1,2 +1,2 @@
 # desafio_teste_hipotese
-Desafio final da semana 13 do bootcamp Data Analytics - WoMakers Code
+Desafio final da semana 10 do bootcamp Data Analytics - WoMakers Code
